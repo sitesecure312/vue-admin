@@ -70,11 +70,4 @@ Got stuck? Check out our [documentation](https://github.com/epicmaxco/vuestic-ad
 ## How can I support developers?
 - Star our GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
-- Follow us on [Twitter](https://twitter.com/epicmaxco) :feet:
-- Like our page on [Facebook](https://www.facebook.com/epicmaxco) :thumbsup:
 
-## Can I hire you guys?
-Yes!  Visit [our homepage](http://epicmax.co/) or simply leave us a message to [hello@epicmax.co](mailto:hello@epicmax.co). We will be happy to work with you!
-
-## License
-[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
