@@ -8,9 +8,6 @@ Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [
   </a>
 </p>
 
-## Demo
-Check it out [live](http://vuestic.epicmax.co)!
-
 ## Prerequisites:
 
 - [Node.js](https://nodejs.org/en/) (>=4.x or 6.x preferred)
